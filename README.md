@@ -142,7 +142,7 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Array Subset of another array
 ## Day 14 :
 ### Solved some problems on hashing
-*Separate chaining in Hashing
-*Linear Probing in Hashing
-*Positive Negative Pair
-*Longest consecutive subsequence
+* Separate chaining in Hashing
+* Linear Probing in Hashing
+* Positive Negative Pair
+* Longest consecutive subsequence
