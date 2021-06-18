@@ -146,3 +146,38 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Linear Probing in Hashing
 * Positive Negative Pair
 * Longest consecutive subsequence
+## Day 15 :
+### Solved some problems on hashing
+* find all pairs on integer array whose sum is equal to given number
+* Find the first repeated word in string.
+* find four elements that sum to a given value
+* Given a sequence of words, print all anagrams together
+## Day 16 :
+### Solved some problems on hashing
+* Find if there is any subarray with sum equal to 0
+* print all subarrays with 0 sum
+* Count distinct elements in every window
+* Largest subarray of 0's and 1's
+* Equivalent Sub-Arrays
+## Day 17 :
+### Solved some problems
+* Rotate a number
+* permutation in string
+* Rank of string
+* Count Inversion
+## Day 18 :
+### Solved some problems on hashing
+* Numbers containing 1, 2 and 3
+* Check if two arrays are equal or not
+* Sorting Elements of an Array by Frequency
+* Zero Sum Subarrays
+* Relative Sorting
+## Day 19 :
+### Solved some problems on arrys on leetcode
+* Two Sum 
+* Search in Rotated Sorted Array
+* Container With Most Water
+
+
+
+
