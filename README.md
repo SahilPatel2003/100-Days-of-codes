@@ -177,7 +177,17 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Two Sum 
 * Search in Rotated Sorted Array
 * Container With Most Water
-
-
-
+## Day 20 :
+### i learned basic of Recursion.
+## Day 21 :
+### Solved some problems on arrys on leetcode
+* 3Sum
+* Median of Two Sorted Arrays
+* Find the Duplicate Number
+## Day 21 :
+### i learned advance of Recursion.
+### i solved 3 problems on codechef
+* Chefland Visa
+* ICPC Balloons
+* The Wave
 
