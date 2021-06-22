@@ -1,0 +1,23 @@
+vector<string>find_permutation(string s)
+		{
+		    vector<string>res;
+		    sort(s.begin(),s.end());
+		    res.push_back(s);
+		    while(next_permutation(s.begin(),s.end())){
+		        res.push_back(s);
+		    }
+		    
+		    return res;
+		 
+		}
+   int main()
+   {
+     string str;
+     cin>>str;
+     vector<string>ans=find_permutation(str);
+     for(auto i:ans)
+     {
+       cout<<i<<" ";
+     }
+     return 0;
+   }
