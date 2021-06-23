@@ -184,10 +184,20 @@ This will be the repository for C++ topic wise questions, practice questions and
 * 3Sum
 * Median of Two Sorted Arrays
 * Find the Duplicate Number
-## Day 21 :
+## Day 22 :
 ### i learned advance of Recursion.
 ### i solved 3 problems on codechef
 * Chefland Visa
 * ICPC Balloons
 * The Wave
-
+## Day 23 :
+### i solved some problem on recursion and backtracking
+* print subset
+* print permutations
+* mobile kayboard
+* stair case
+## Day 24 :
+### i solved some problem on recursion and backtracking
+* Rat in a maze Problem
+* N-Queens
+* flood fill
