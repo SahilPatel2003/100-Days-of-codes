@@ -201,3 +201,12 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Rat in a maze Problem
 * N-Queens
 * flood fill
+## Day 25 :
+### i solved some problem on recursion and backtracking on leetcode
+* Combinational Sum
+* Find Maximum number possible by doing at-most K swaps
+* Letter Tile Possibilities
+
+
+
+
