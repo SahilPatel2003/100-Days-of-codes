@@ -206,7 +206,10 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Combinational Sum
 * Find Maximum number possible by doing at-most K swaps
 * Letter Tile Possibilities
-
+## Day 25 :
+### i solved some problem
+* Maximum Product Subarray
+*  The k-th Lexicographical String of All Happy Strings of Length n
 
 
 
