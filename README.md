@@ -210,6 +210,10 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### i solved some problem
 * Maximum Product Subarray
 *  The k-th Lexicographical String of All Happy Strings of Length n
-
-
+## Day 25 :
+* i solved Minimum number of days to make bouquets
+### i solved three problem on codechef june lunchtime
+* Richie Rich
+* False Number
+* HTML Tags
 
