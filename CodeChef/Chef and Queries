@@ -1,0 +1,32 @@
+#include<iostream>
+
+using namespace std;
+
+int main()
+{
+   int n,Q;
+   cin>>n>>Q;
+
+   int arr[n+1];
+
+   for(int i=1;i<n+1;i++)
+   {
+     cin>>arr[i]; 
+   }
+   
+    for(int j=1;j<=Q;j++)
+    {
+        int num1,num2,L,R,X,Y;
+        cin>>num1>>L>>R>>X;
+        cin>>num2>>Y;
+       
+       for(int i=L;i<=R;i++)
+       {
+           arr[i]=(arr[i]+((X+i-L)*(X+i-L)));
+       }
+       cout<<arr[Y]<<endl;
+    }
+
+
+   return 0;
+}
