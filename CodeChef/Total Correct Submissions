@@ -1,0 +1,46 @@
+#include<iostream>
+#include<vector>
+#include<unordered_map>
+#include<algorithm>
+using namespace std;
+
+int main()
+{
+   
+   int T;
+   cin>>T;
+
+   for(int j=1;j<=T;j++)
+   {
+      int N;
+      cin>>N;
+      unordered_map<string,int>m;
+      vector<int>ans;
+        for(int i=0;i<3*N;i++)
+        {
+          string str;
+          int k;
+          cin>>str;
+          cin>>k;
+           if(m.find(str)==m.end())
+           {
+               m[str]=k;
+           }
+           else
+           {
+               m[str]+=k;
+           }
+        }
+        for(auto it=m.begin();it!=m.end();it++)
+        {
+          ans.push_back(it->second);
+        }
+        sort(ans.begin(),ans.end());
+        for(int i=0;i<ans.size();i++)
+        {
+            cout<<ans[i]<<" ";
+        }
+        cout<<endl;
+      }
+   return 0;
+}
