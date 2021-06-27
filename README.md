@@ -206,14 +206,20 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Combinational Sum
 * Find Maximum number possible by doing at-most K swaps
 * Letter Tile Possibilities
-## Day 25 :
+## Day 26 :
 ### i solved some problem
 * Maximum Product Subarray
 *  The k-th Lexicographical String of All Happy Strings of Length n
-## Day 25 :
+## Day 27 :
 * i solved Minimum number of days to make bouquets
 ### i solved three problem on codechef june lunchtime
 * Richie Rich
 * False Number
 * HTML Tags
-
+## Day 28 :
+* i solved page allocation problem
+### i solved 4 problem on codechef June Starters
+* Cyclic Quadrilateral
+* Chef and Queries 
+* Chess Match
+* Total Correct Submissions
