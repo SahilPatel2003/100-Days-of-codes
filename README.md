@@ -223,3 +223,14 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Chef and Queries 
 * Chess Match
 * Total Correct Submissions
+## Day 29 :
+### i learned basic and  advance of matrix
+## i solved some problem on matrix
+* Rotate Image
+* Spiral traversal on a Matrix
+* Search an element in a matriix
+* Determinant of a Matrix
+* Boolean Matrix Problem
+* Make Matrix Beautiful
+* Find row with maximum no. of 1's
+* 
