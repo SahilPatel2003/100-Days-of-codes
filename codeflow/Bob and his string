@@ -1,0 +1,36 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main() {
+
+    int T;
+    cin>>T;
+    string s;
+    for(int j=1;j<=T;j++)
+    {
+    cin>>s;
+    bool flag=false;
+    unordered_map<char,int>m;
+    int count=0;
+    for(int i=0;i<s.length();i++)
+    {
+        if(m.find(s[i])!=m.end())
+        {
+            count=max(count,i-m[s[i]]-1);
+            flag=true;
+        }
+        else
+        {
+            m[s[i]]=i;
+        }
+    }
+    
+    if(count==0 && flag==false)
+    {
+      cout<<"-1"<<endl;
+    }
+    else
+    {
+        cout<<count<<endl;
+    }
+  }
+}
