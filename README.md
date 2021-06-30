@@ -237,3 +237,5 @@ This will be the repository for C++ topic wise questions, practice questions and
 ## i solved 2 problem on codeflow
 * Bob and his string
 * Mushrooms
+## and solved problem on matrix
+* Print elements in sorted order using row-column wise sorted matrix
