@@ -239,3 +239,8 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Mushrooms
 ## and solved problem on matrix
 * Print elements in sorted order using row-column wise sorted matrix
+## Day 31 :
+## i solved 3 problem on codechef july long challenge
+* Maximum Production
+* Relativity
+* XxOoRr
