@@ -244,3 +244,30 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Maximum Production
 * Relativity
 * XxOoRr
+## Day 32 :
+## i learned basic of linkedlist
+## Day 33:
+## learned advance of linkedlist
+## solved some problem on linkedlist
+* Insert in Middle of Linked List
+* Insert In Sorted Linked List
+* Join Two Linked Lists
+* Is Linked List Sorted
+* Remove duplicate element from sorted Linked List
+## Day 34:
+## solved problem on linkedlist
+* Identical Linked Lists
+* Nth node from end of linked list
+* Reverse a linked list
+* Delete without head pointer
+* Remove duplicates from an unsorted linked list
+* Merge two sorted linked lists
+* Swap Kth nodes from ends
+## Day 35:
+## solved problem on linkedlist
+* Detect Loop in linked list
+* Find length of Loop
+* Remove loop in Linked List
+* Rotate a Linked List
+* Add two numbers represented by linked lists
+* Pairwise swap of nodes in LinkeList
