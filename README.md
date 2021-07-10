@@ -271,3 +271,17 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Rotate a Linked List
 * Add two numbers represented by linked lists
 * Pairwise swap of nodes in LinkeList
+## Day 36:
+## solved problem on linkedlist
+* Sort a LL of 0's, 1's and 2's
+* Reverse a Doubly Linked list.
+* Merge K sorted linked lists
+* Segregate even and odd nodes in a Linked List
+* Program for n’th node from the end of a Linked List
+* Split a Circular linked list into two halves.
+## Day 36:
+# i had some important work so i had not much time so i can solve only one problem on codeforce
+## solved problem on linkedlist
+* Multiply 2 no. represented by LL
+* Write a Program to check whether the Singly Linked list is a palindrome or not.
+* Add “1” to a number represented as a Linked List.
