@@ -285,7 +285,7 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Multiply 2 no. represented by LL
 * Write a Program to check whether the Singly Linked list is a palindrome or not.
 * Add “1” to a number represented as a Linked List.
-## Day 37:
+* ## Day 37:
 * Circular Linked List Head Insert
 * Circular Linked List Insertion At Position
 * Delete Head of Circular Linked List
@@ -293,3 +293,16 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Insert in Sorted way in a Sorted DLL
 * Doubly linked list Insertion at given position
 * Display Circular Doubly Linked List
+## Day 38:
+* today i solved basic of Stack
+## Day 39:
+* today i solved advance of stack
+## Day 40:
+## today i solved problem on stack
+* Reverse Array Using Stack
+* Implement Stack Using Array
+* Implement Stack using Linked List
+* Middle Of Stack
+* Parenthesis Checker
+* Infix to Postfix
+* Evaluation of Postfix Expression
