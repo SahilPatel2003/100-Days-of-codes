@@ -294,9 +294,9 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Doubly linked list Insertion at given position
 * Display Circular Doubly Linked List
 ## Day 38:
-* today i solved basic of Stack
+* today i learned basic of Stack
 ## Day 39:
-* today i solved advance of stack
+* today i learned advance of stack
 ## Day 40:
 ## today i solved problem on stack
 * Reverse Array Using Stack
