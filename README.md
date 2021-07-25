@@ -306,3 +306,29 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Parenthesis Checker
 * Infix to Postfix
 * Evaluation of Postfix Expression
+## Day 41
+* today i learnerd basic of queue
+## Day 42:
+* today i continued learn about basic of queue
+## Day 43:
+* today i learned about advance of queue
+## Day 44:
+* today i solved problem on queue
+* Implement Queue using array
+* Operations on Queue
+* Implement Queue using Linked List
+* Queue Reversal
+## Day 45:
+* Queue using two Stacks
+* Stack using two queues
+## today i solved problem on deque
+* Deque Implementations
+* Implement Dequeue Using Linked List
+* Insertion in deque
+* Dequeue Traversal
+* Deque deletion
+## Day 46:
+* Rotate Deque By K
+* Maximum of all subarrays of size k
+* Generate Binary Numbers
+* Reverse First K elements of Queue
