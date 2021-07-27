@@ -332,3 +332,12 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Maximum of all subarrays of size k
 * Generate Binary Numbers
 * Reverse First K elements of Queue
+## Day 47:
+* Queue based approach or first non-repeating character in a stream.
+* Minimum number of bracket reversals needed to make an expression balanced.
+* Find the first circular tour that visits all Petrol Pumps
+## Day 48:
+* First negative integer in every window of size “k”
+* Reverse a Queue using recursion
+* Implement Queue using Stack  
+* Implement Stack using Queue
