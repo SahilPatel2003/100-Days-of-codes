@@ -341,3 +341,29 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Reverse a Queue using recursion
 * Implement Queue using Stack  
 * Implement Stack using Queue
+## Day 49:
+## Today i learned binary tree.
+## Day 50:
+## today i continued learn about binary tree.
+## Day 51
+## today i learned advance of binary tree.
+## Day 52:
+## today i solved some problem on binary tree
+* level order traversal
+* Reverse Level Order traversal
+* Height of a tree
+* Diameter of a tree
+* Left View of a tree
+## Day 53:
+## today i solved some problem on binary tree
+* Right View of Tree
+* Zig-Zag traversal of a binary tree
+* Check if a tree is balanced or not
+* Convert Binary tree into Doubly Linked List
+* Convert Binary tree into Sum tree
+## Day 54:
+## today i solved some problem on binary tree
+* Construct Binary tree from Inorder and preorder traversal
+* Check if Binary tree is Sum tree or not
+* Check if all leaf nodes are at same level or not
+* Check if 2 trees are mirror or not
