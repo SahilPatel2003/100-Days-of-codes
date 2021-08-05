@@ -367,3 +367,13 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Check if Binary tree is Sum tree or not
 * Check if all leaf nodes are at same level or not
 * Check if 2 trees are mirror or not
+## Day 55:
+## today i solved some problem on binary tree
+* Sum of Nodes on the Longest path from root to leaf node 
+* Find LCA in a Binary tree
+* Find distance between 2 nodes in a Binary tree
+* Tree Isomorphism Problem
+## Day 56:
+## today i solved some problem on binary tree
+* Find all Duplicate subtrees in a Binary tree
+* Check if a Binary Tree contains duplicate subtrees of size 2 or more
