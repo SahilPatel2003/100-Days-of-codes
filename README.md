@@ -377,3 +377,9 @@ This will be the repository for C++ topic wise questions, practice questions and
 ## today i solved some problem on binary tree
 * Find all Duplicate subtrees in a Binary tree
 * Check if a Binary Tree contains duplicate subtrees of size 2 or more
+## Day 57:
+## today i learned about binary search tree
+## today i appered in codechef august long chellenge.
+* i solved two problem in this chellenge
+* Olympics Ranking
+* Problem Difficulties
