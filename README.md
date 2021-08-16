@@ -383,3 +383,24 @@ This will be the repository for C++ topic wise questions, practice questions and
 * i solved two problem in this chellenge
 * Olympics Ranking
 * Problem Difficulties
+## Day 58:
+## today i learned about binary search tree.
+## Day 59:
+## today i learned about advance of binary search tree.
+## Day 60:
+## today i learned about advance of binary search tree.
+## Day 61:
+## today i solved 1 problems on codechef august long chellenge.
+## Day 62:
+## today i impleted some function of binary search tree.
+## Day 63:
+## today i solved some problem on binary search tree.
+* Preorder in BST
+* Inorder in BST
+* Postorder in BST
+* Levelorder in BST
+## Day 64
+## today i solved some problem on binary search tree.
+* Insert a node in a BST
+* Search a node in BST
+* Delete a node from BST
