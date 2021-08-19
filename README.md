@@ -400,7 +400,32 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Postorder in BST
 * Levelorder in BST
 ## Day 64
-## today i solved some problem on binary search tree.
+# today i solved some problem on binary search tree.
 * Insert a node in a BST
 * Search a node in BST
 * Delete a node from BST
+## Day 65
+# today i solved some problem on binary search tree.
+* Check for BST
+* Minimum element in BST
+* Print Common Nodes in two BSTs
+* Print BST elements in given range
+## Day 66
+# today i solved some problem on binary search tree.
+* Pair Sum in BST
+* Floor in BST
+* Ceil in BST
+* Vertical Traversal of Binary Tree
+## Day 67
+# today i solved some problem on binary search tree.
+* Top View of Binary Tree
+* Bottom View of Binary Tree
+* Find the Closest Element in BST
+* Convert Level Order Traversal to BST
+## Day 68
+# today i solved some problem on binary search tree.
+* Count BST nodes that lie in a given range
+* Merge two BST 's
+* Smaller on Right
+* Preorder to Postorder
+* Fixing Two nodes of a BST
