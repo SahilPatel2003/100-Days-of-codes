@@ -429,3 +429,10 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Smaller on Right
 * Preorder to Postorder
 * Fixing Two nodes of a BST
+## Day 69
+# today i solved some problem on binary search tree.
+* Find inorder successor and inorder predecessor in a BST
+* Populate Inorder successor of all nodes
+* Count pairs from 2 BST whose sum is equal to given value "X"
+* Deletion of a node in a BST
+* Convert Binary tree into BST
