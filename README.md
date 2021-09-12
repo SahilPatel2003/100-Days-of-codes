@@ -436,3 +436,48 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Count pairs from 2 BST whose sum is equal to given value "X"
 * Deletion of a node in a BST
 * Convert Binary tree into BST
+## Day 70
+# today i solved some problem on codeforces and other problem.
+## Day 71
+# today i learned basic of heap.
+## Day 72
+# today i continued learn of basic heap. 
+## Day 73
+# today i learned advance of heap.
+## Day 74
+# today i continued learn of advance heap.
+## Day 75
+# today i sloved some problems on heap
+* Binary Heap Operations
+* Heap Sort
+* Kth largest element
+* Kth largest element
+## Day 76
+# today i sloved some problems on heap
+* K largest elements
+* Kth largest element in a stream
+* K Most occurring elements
+* Minimum Cost of ropes
+## Day 77
+# today i sloved some problems on heap
+* Nearly sorted
+* Merge k Sorted Arrays
+* Rearrange characters
+* Find median in a stream
+* Minimum sum of squares of character counts in a given string after removing “k” characters.
+## Day 78
+# today i sloved some problems on heap
+* Kth smallest element in a row-cpumn wise sorted matrix
+* Connect “n” ropes with minimum cost
+* Check if a Binary Tree is Heap
+* Merge 2 Binary Max Heaps
+## Day 79
+# today i learned basi of graph.
+## Day 80
+# today i continued learn of graph.
+## Day 81
+# todai i learned advance of graph.
+## Day 82
+# today i Continued learn of advance graph.
+## Day 83
+# today i saw other playlist on graph for more understanding.
