@@ -486,3 +486,13 @@ This will be the repository for C++ topic wise questions, practice questions and
 ## Day 85
 # today i continued playlist on graph.
 # today i solved 2 problems on codechef starters.
+## Day 86
+# today i continued playlist on graph.
+## Day 87
+# today i solved some problems on graph.
+## Day 86
+# today i solved problems in codechef.
+## Day 86
+# today i saw other topic based on graph.
+## Day 86
+# today i solved some problem on graph.
