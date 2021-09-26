@@ -234,28 +234,28 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Make Matrix Beautiful
 * Find row with maximum no. of 1's
 ## Day 30 :
-## i solved 2 problem on codeflow
+### i solved 2 problem on codeflow
 * Bob and his string
 * Mushrooms
-## and solved problem on matrix
+### and solved problem on matrix
 * Print elements in sorted order using row-column wise sorted matrix
 ## Day 31 :
-## i solved 3 problem on codechef july long challenge
+### i solved 3 problem on codechef july long challenge
 * Maximum Production
 * Relativity
 * XxOoRr
 ## Day 32 :
-## i learned basic of linkedlist
+### i learned basic of linkedlist
 ## Day 33:
-## learned advance of linkedlist
-## solved some problem on linkedlist
+### learned advance of linkedlist
+### solved some problem on linkedlist
 * Insert in Middle of Linked List
 * Insert In Sorted Linked List
 * Join Two Linked Lists
 * Is Linked List Sorted
 * Remove duplicate element from sorted Linked List
 ## Day 34:
-## solved problem on linkedlist
+### solved problem on linkedlist
 * Identical Linked Lists
 * Nth node from end of linked list
 * Reverse a linked list
@@ -264,7 +264,7 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Merge two sorted linked lists
 * Swap Kth nodes from ends
 ## Day 35:
-## solved problem on linkedlist
+### solved problem on linkedlist
 * Detect Loop in linked list
 * Find length of Loop
 * Remove loop in Linked List
@@ -272,7 +272,7 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Add two numbers represented by linked lists
 * Pairwise swap of nodes in LinkeList
 ## Day 36:
-## solved problem on linkedlist
+### solved problem on linkedlist
 * Sort a LL of 0's, 1's and 2's
 * Reverse a Doubly Linked list.
 * Merge K sorted linked lists
@@ -280,8 +280,8 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Program for n’th node from the end of a Linked List
 * Split a Circular linked list into two halves.
 ## Day 36:
-# i had some important work so i had not much time so i can solve only one problem on codeforce
-## solved problem on linkedlist
+### i had some important work so i had not much time so i can solve only one problem on codeforce
+### solved problem on linkedlist
 * Multiply 2 no. represented by LL
 * Write a Program to check whether the Singly Linked list is a palindrome or not.
 * Add “1” to a number represented as a Linked List.
@@ -298,7 +298,7 @@ This will be the repository for C++ topic wise questions, practice questions and
 ## Day 39:
 * today i learned advance of stack
 ## Day 40:
-## today i solved problem on stack
+### today i solved problem on stack
 * Reverse Array Using Stack
 * Implement Stack Using Array
 * Implement Stack using Linked List
@@ -307,13 +307,13 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Infix to Postfix
 * Evaluation of Postfix Expression
 ## Day 41
-* today i learnerd basic of queue
+### today i learnerd basic of queue
 ## Day 42:
-* today i continued learn about basic of queue
+### today i continued learn about basic of queue
 ## Day 43:
-* today i learned about advance of queue
+### today i learned about advance of queue
 ## Day 44:
-* today i solved problem on queue
+### today i solved problem on queue
 * Implement Queue using array
 * Operations on Queue
 * Implement Queue using Linked List
@@ -321,7 +321,7 @@ This will be the repository for C++ topic wise questions, practice questions and
 ## Day 45:
 * Queue using two Stacks
 * Stack using two queues
-## today i solved problem on deque
+### today i solved problem on deque
 * Deque Implementations
 * Implement Dequeue Using Linked List
 * Insertion in deque
@@ -342,169 +342,169 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Implement Queue using Stack  
 * Implement Stack using Queue
 ## Day 49:
-## Today i learned binary tree.
+### Today i learned binary tree.
 ## Day 50:
-## today i continued learn about binary tree.
+### today i continued learn about binary tree.
 ## Day 51
-## today i learned advance of binary tree.
+### today i learned advance of binary tree.
 ## Day 52:
-## today i solved some problem on binary tree
+### today i solved some problem on binary tree
 * level order traversal
 * Reverse Level Order traversal
 * Height of a tree
 * Diameter of a tree
 * Left View of a tree
 ## Day 53:
-## today i solved some problem on binary tree
+### today i solved some problem on binary tree
 * Right View of Tree
 * Zig-Zag traversal of a binary tree
 * Check if a tree is balanced or not
 * Convert Binary tree into Doubly Linked List
 * Convert Binary tree into Sum tree
 ## Day 54:
-## today i solved some problem on binary tree
+### today i solved some problem on binary tree
 * Construct Binary tree from Inorder and preorder traversal
 * Check if Binary tree is Sum tree or not
 * Check if all leaf nodes are at same level or not
 * Check if 2 trees are mirror or not
 ## Day 55:
-## today i solved some problem on binary tree
+### today i solved some problem on binary tree
 * Sum of Nodes on the Longest path from root to leaf node 
 * Find LCA in a Binary tree
 * Find distance between 2 nodes in a Binary tree
 * Tree Isomorphism Problem
 ## Day 56:
-## today i solved some problem on binary tree
+### today i solved some problem on binary tree
 * Find all Duplicate subtrees in a Binary tree
 * Check if a Binary Tree contains duplicate subtrees of size 2 or more
 ## Day 57:
-## today i learned about binary search tree
-## today i appered in codechef august long chellenge.
+### today i learned about binary search tree
+### today i appered in codechef august long chellenge.
 * i solved two problem in this chellenge
 * Olympics Ranking
 * Problem Difficulties
 ## Day 58:
-## today i learned about binary search tree.
+### today i learned about binary search tree.
 ## Day 59:
-## today i learned about advance of binary search tree.
+### today i learned about advance of binary search tree.
 ## Day 60:
-## today i learned about advance of binary search tree.
+### today i learned about advance of binary search tree.
 ## Day 61:
-## today i solved 1 problems on codechef august long chellenge.
+### today i solved 1 problems on codechef august long chellenge.
 ## Day 62:
-## today i impleted some function of binary search tree.
+### today i impleted some function of binary search tree.
 ## Day 63:
-## today i solved some problem on binary search tree.
+### today i solved some problem on binary search tree.
 * Preorder in BST
 * Inorder in BST
 * Postorder in BST
 * Levelorder in BST
 ## Day 64
-# today i solved some problem on binary search tree.
+### today i solved some problem on binary search tree.
 * Insert a node in a BST
 * Search a node in BST
 * Delete a node from BST
 ## Day 65
-# today i solved some problem on binary search tree.
+### today i solved some problem on binary search tree.
 * Check for BST
 * Minimum element in BST
 * Print Common Nodes in two BSTs
 * Print BST elements in given range
 ## Day 66
-# today i solved some problem on binary search tree.
+### today i solved some problem on binary search tree.
 * Pair Sum in BST
 * Floor in BST
 * Ceil in BST
 * Vertical Traversal of Binary Tree
 ## Day 67
-# today i solved some problem on binary search tree.
+### today i solved some problem on binary search tree.
 * Top View of Binary Tree
 * Bottom View of Binary Tree
 * Find the Closest Element in BST
 * Convert Level Order Traversal to BST
 ## Day 68
-# today i solved some problem on binary search tree.
+### today i solved some problem on binary search tree.
 * Count BST nodes that lie in a given range
 * Merge two BST 's
 * Smaller on Right
 * Preorder to Postorder
 * Fixing Two nodes of a BST
 ## Day 69
-# today i solved some problem on binary search tree.
+### today i solved some problem on binary search tree.
 * Find inorder successor and inorder predecessor in a BST
 * Populate Inorder successor of all nodes
 * Count pairs from 2 BST whose sum is equal to given value "X"
 * Deletion of a node in a BST
 * Convert Binary tree into BST
 ## Day 70
-# today i solved some problem on codeforces and other problem.
+### today i solved some problem on codeforces and other problem.
 ## Day 71
-# today i learned basic of heap.
+### today i learned basic of heap.
 ## Day 72
-# today i continued learn of basic heap. 
+### today i continued learn of basic heap. 
 ## Day 73
-# today i learned advance of heap.
+### today i learned advance of heap.
 ## Day 74
-# today i continued learn of advance heap.
+### today i continued learn of advance heap.
 ## Day 75
-# today i sloved some problems on heap
+### today i sloved some problems on heap
 * Binary Heap Operations
 * Heap Sort
 * Kth largest element
 * Kth largest element
 ## Day 76
-# today i sloved some problems on heap
+### today i sloved some problems on heap
 * K largest elements
 * Kth largest element in a stream
 * K Most occurring elements
 * Minimum Cost of ropes
 ## Day 77
-# today i sloved some problems on heap
+### today i sloved some problems on heap
 * Nearly sorted
 * Merge k Sorted Arrays
 * Rearrange characters
 * Find median in a stream
 * Minimum sum of squares of character counts in a given string after removing “k” characters.
 ## Day 78
-# today i sloved some problems on heap
+###today i sloved some problems on heap
 * Kth smallest element in a row-cpumn wise sorted matrix
 * Connect “n” ropes with minimum cost
 * Check if a Binary Tree is Heap
 * Merge 2 Binary Max Heaps
 ## Day 79
-# today i learned basi of graph.
+### today i learned basi of graph.
 ## Day 80
-# today i continued learn of graph.
+### today i continued learn of graph.
 ## Day 81
-# todai i learned advance of graph.
+### todai i learned advance of graph.
 ## Day 82
-# today i Continued learn of advance graph.
+### today i Continued learn of advance graph.
 ## Day 83
-# today i saw other playlist on graph for more understanding.
+### today i saw other playlist on graph for more understanding.
 ## Day 84
-# today i continued playlist on graph.
+### today i continued playlist on graph.
 ## Day 85
-# today i continued playlist on graph.
-# today i solved 2 problems on codechef starters.
+### today i continued playlist on graph.
+### today i solved 2 problems on codechef starters.
 ## Day 86
-# today i continued playlist on graph.
+### today i continued playlist on graph.
 ## Day 87
-# today i solved some problems on graph.
+### today i solved some problems on graph.
 ## Day 88
-# today i solved problems in codechef.
+### today i solved problems in codechef.
 ## Day 89
-# today i saw other topic based on graph.
+### today i saw other topic based on graph.
 ## Day 90
-# today i solved some problem on graph.
+### today i solved some problem on graph.
 ## Day 91
-# today i solved some problem on graph.
+### today i solved some problem on graph.
 * Print adjacency list
 * BFS of graph
 * DFS of Graph
 ## Day 92
-# today i solved some problem on graph.
+### today i solved some problem on graph.
 * Detect cycle in an undirected graph
 * Detect cycle in a directed graph
 * Topological sort
 ## Day 93
-# Today i solved 4 problems on codechef starters.
+### Today i solved 4 problems on codechef starters.
