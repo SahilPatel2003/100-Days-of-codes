@@ -490,9 +490,21 @@ This will be the repository for C++ topic wise questions, practice questions and
 # today i continued playlist on graph.
 ## Day 87
 # today i solved some problems on graph.
-## Day 86
+## Day 88
 # today i solved problems in codechef.
-## Day 86
+## Day 89
 # today i saw other topic based on graph.
-## Day 86
+## Day 90
 # today i solved some problem on graph.
+## Day 91
+# today i solved some problem on graph.
+* Print adjacency list
+* BFS of graph
+* DFS of Graph
+## Day 92
+# today i solved some problem on graph.
+* Detect cycle in an undirected graph
+* Detect cycle in a directed graph
+* Topological sort
+## Day 93
+# Today i solved 4 problems on codechef starters.
