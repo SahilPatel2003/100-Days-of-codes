@@ -508,3 +508,9 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Topological sort
 ## Day 93
 ### Today i solved 4 problems on codechef starters.
+## Day 94
+### Today i solved some problems on graph.
+* Find the number of islands
+* Find whether path exist
+* Level of Nodes
+* Possible paths between 2 vertices
