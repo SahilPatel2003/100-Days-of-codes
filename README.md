@@ -514,3 +514,10 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Find whether path exist
 * Level of Nodes
 * Possible paths between 2 vertices
+## Day 94
+### Today i solved 2 problems on codeforces.
+### Today i solved some problems on graph.
+* X Total Shapes
+* Distance of nearest cell having 1
+* Mother Vertex
+* Unit Area of largest region of 1's
