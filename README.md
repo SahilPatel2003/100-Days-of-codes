@@ -523,4 +523,9 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Unit Area of largest region of 1's
 
 ## Day 95
-### Today i appered in codeforces.
+### Today i appered in contest on codeforces.
+### today i solved some problems on graph.
+* Rotten Oranges
+* Minimum Swaps to Sort
+* Steps by Knight
+* Minimum Cost Path
