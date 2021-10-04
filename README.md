@@ -529,3 +529,5 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Minimum Swaps to Sort
 * Steps by Knight
 * Minimum Cost Path
+## Day 96
+### today i solved some problems on previous topics which i was learned.
