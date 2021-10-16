@@ -514,7 +514,7 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Find whether path exist
 * Level of Nodes
 * Possible paths between 2 vertices
-## Day 94
+## Day 95
 ### Today i solved 2 problems on codeforces.
 ### Today i solved some problems on graph.
 * X Total Shapes
@@ -522,12 +522,16 @@ This will be the repository for C++ topic wise questions, practice questions and
 * Mother Vertex
 * Unit Area of largest region of 1's
 
-## Day 95
+## Day 96
 ### Today i appered in contest on codeforces.
 ### today i solved some problems on graph.
 * Rotten Oranges
 * Minimum Swaps to Sort
 * Steps by Knight
 * Minimum Cost Path
-## Day 96
+## Day 97
 ### today i solved some problems on previous topics which i was learned.
+## Day 98
+### Today i learned greedy.
+## Day 99
+### Today i continued  learn of greedy.
