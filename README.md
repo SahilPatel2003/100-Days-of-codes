@@ -535,3 +535,10 @@ This will be the repository for C++ topic wise questions, practice questions and
 ### Today i learned greedy.
 ## Day 99
 ### Today i continued  learn of greedy.
+## Day 100
+### Today i solved some problems on greedy.
+* Activity Selection
+* Huffman Decoding
+* Fractional Knapsack
+* Largest number with given sum
+* Job Sequencing Problem
